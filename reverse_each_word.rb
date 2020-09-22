@@ -5,6 +5,8 @@ def reverse_each_word(sentence1)
   sentence_array.collect do |changed| 
    changed.reverse 
 
+reverse_each_word(sentence2)
+
  end.join(" ")
 #return new_sentence.join(" ")
 end 
