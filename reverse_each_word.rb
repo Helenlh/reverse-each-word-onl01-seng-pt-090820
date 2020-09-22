@@ -15,5 +15,4 @@ reverse_each_word(sentence2)
    changed2.reverse 
  end.join(" ")
 #return new_sentence.join(" ")
-end 
 
