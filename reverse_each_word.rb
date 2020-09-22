@@ -16,5 +16,5 @@ reverse_each_word(sentence2)
  end.join(" ")
 #return new_sentence.join(" ")
 end 
-
+end 
 
