@@ -8,7 +8,7 @@ end.join(" ")
 end 
 
 
-sentence2 = 
+sentence2 = "Hi again, just making sure it's reversed!"
 reverse_each_word(sentence2)
  sentence_array2 = sentence2.split( )
   sentence_array2.collect do |changed2| 
