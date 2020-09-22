@@ -10,7 +10,7 @@ reverse_each_word(sentence2)
   sentence_array2.collect do |changed2| 
    changed2.reverse 
 
- end.join(" ")
+ 
  end.join(" ")
 #return new_sentence.join(" ")
 end 
